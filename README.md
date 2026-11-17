@@ -1,91 +1,115 @@
-<div align="center">
-
 # B R Devamayookha
 
 ### AI & Data Science Undergraduate
 
-*Exploring the intersection of computation, science and technology.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devamayookha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/b-r-devamayookha-627305375)
-
-</div>
+*Exploring ideas. Building experiments. Learning through technology.*
 
 ---
 
 ## About Me
 
-I'm an undergraduate student pursuing Artificial Intelligence and Data Science, interested in understanding how computation, technology and data can be used to investigate complex problems.
+I'm an undergraduate student pursuing Artificial Intelligence and Data Science.
 
-I enjoy working on projects that combine programming, data analysis, geospatial methods, simulations and interactive applications. I'm particularly interested in scientific computing, Earth observation, astronomy, astrophysics, space technology and intelligent systems.
+I'm interested in how computation, data and intelligent systems can help us understand complex questions and build useful applications.
 
-I'm currently strengthening my engineering fundamentals and learning through practical implementation, experimentation and collaborative projects.
+I enjoy exploring ideas through hackathons, independent experiments and collaborative projects. My interests span artificial intelligence, scientific computing, astronomy, Earth observation, space technology and climate-related applications.
 
-## Areas of Interest
-
-| Domain | Areas of Exploration |
-|:---|:---|
-| **Artificial Intelligence & Data Science** | Data analysis, machine learning and intelligent systems |
-| **Scientific Computing** | Computational models, simulations and data-driven experiments |
-| **Earth & Environmental Observation** | Satellite imagery, geospatial analysis and environmental applications |
-| **Astronomy & Astrophysics** | Exoplanets, planetary systems, astronomical data and computational exploration of the universe |
-| **Space Technology** | Satellites, spacecraft systems and space-related applications |
-| **Engineering & Technology** | Exploring technical domains and developing practical solutions |
-
-## Selected Projects
-
-| Project | Description |
-|:---|:---|
-| [Fire Parallax](https://github.com/devamayookha/fire-parallax) | A team project comparing MODIS Aqua and VIIRS NOAA-20 active-fire observations across Punjab and Haryana, investigating sensor overlap, burning activity patterns and sensitivity to analytical choices. |
-| [Velicham](https://github.com/devamayookha/velicham) | An exploration of nighttime satellite imagery and population data across Kerala, using a light-per-capita indicator to investigate district-level differences. |
-| [Exoplanet Transit Detector](https://github.com/devamayookha/exoplanet-transit-detector) | A Kepler light-curve analysis project that searches for periodic transit-like signals and compares detected periods with published values for known exoplanets. |
-| [Candidate Radar](https://github.com/devamayookha/candidate-radar) | An explainable candidate-ranking system combining multiple scoring components, developed for a data and AI challenge. |
-| [Can My CubeSat Survive?](https://github.com/devamayookha/can-my-cubesat-survive) | An educational CubeSat power-budget simulator that models battery behaviour over a simplified 30-day mission. |
-
-## Technologies & Tools
-
-**Programming**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Data Analysis & Scientific Computing**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Geospatial Technologies**
-
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square)
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
-
-GeoPandas · Shapely · PyProj · geemap · Folium
-
-**Web Development & Visualisation**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-Chart.js · HTML · CSS
-
-**Development Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-## Currently Exploring
-
-- Strengthening programming and software engineering fundamentals.
-- Improving data analysis and geospatial computing skills.
-- Understanding machine learning through practical implementation.
-- Exploring scientific datasets and computational models.
-- Improving collaborative development and project workflows.
+I'm continuously learning, experimenting with tools and developing a better understanding of how technology moves from an idea to an implementation.
 
 ---
 
-<div align="center">
+## Selected Projects
+
+Projects developed through hackathons and innovation challenges.
+
+### [SafeSync](https://github.com/devamayookha/crisiscore)
+**Google Solution Challenge 2026 · Team CrisisCore**
+
+A Gemini-powered emergency triage and dispatch system for hotels and resorts, featuring incident classification, severity scoring, responder recommendations and a live crisis command board.
+
+### [Fire Parallax](https://github.com/devamayookha/fire-parallax)
+**NASA Space Apps Challenge 2026 · Team ROCHE DOMINION**
+
+A sensor-aware burning activity calendar exploring differences between MODIS Aqua and VIIRS NOAA-20 active-fire observations across Punjab and Haryana.
+
+### [Velicham](https://github.com/devamayookha/velicham)
+**Build for Good India 2026**
+
+An exploration of nighttime lights and population data across Kerala's districts.
+
+### [Candidate Radar](https://github.com/devamayookha/candidate-radar)
+**Redrob India Runs Data & AI Challenge 2026**
+
+An explainable candidate-ranking system designed around job-description and candidate-profile matching.
+
+---
+
+## Experimental Builds
+
+A collection of small, space-themed application experiments.
+
+Each experiment was developed using a different AI coding assistant, following the same prompting approach. The project ideas varied, while the prompt remained consistent.
+
+These experiments helped me explore how different tools translate ideas into applications and support implementation, debugging and deployment.
+
+**Experiments:**
+
+- [Exoplanet Transit Detector](https://github.com/devamayookha/exoplanet-transit-detector)
+- [Ground Station Pass Predictor](https://github.com/devamayookha/ground-station-pass-predictor)
+- [Can My CubeSat Survive?](https://github.com/devamayookha/can-my-cubesat-survive)
+- [Spacecraft Component Identifier](https://github.com/devamayookha/spacecraft-component-identifier)
+- [Satellite Constellation Simulator](https://github.com/devamayookha/satellite-simulator)
+- [Solar Storm Impact Simulator](https://github.com/devamayookha/solar-storm-sim)
+- [Satellite Crash Predictor](https://github.com/devamayookha/satellite-crash-predictor)
+- [Launch Window Simulator](https://github.com/devamayookha/launch-window-simulator)
+
+These are experimental learning builds, not operational scientific or engineering systems.
+
+---
+
+## Areas of Interest
+
+- Artificial Intelligence & Data Science
+- Astronomy & Planetary Science
+- Astrophysics
+- Space Science & Exploration
+- Space Technology & Satellite Systems
+- Earth Observation & Remote Sensing
+- Scientific Computing & Simulation
+- Climate Technology
+- Sports Analytics
+
+---
+
+## Technologies & Tools
+
+**Programming:** Python, JavaScript
+
+**Data & Geospatial:** NumPy, Pandas, GeoPandas, Shapely, PyProj
+
+**Application Development:** Flask, Streamlit
+
+**Visualisation:** Plotly, Chart.js
+
+**Development Tools:** Git, GitHub
+
+---
+
+## Currently Exploring
+
+- Strengthening programming and problem-solving skills
+- Building software engineering fundamentals
+- Exploring artificial intelligence and machine learning
+- Working with scientific and geospatial datasets
+- Learning computational modelling and simulation
+- Improving development workflows and collaborative practices
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/b-r-devamayookha-627305375) · [GitHub](https://github.com/devamayookha)
+
+---
 
 *Curiosity leads to questions. Engineering turns them into experiments.*
-
-</div>
