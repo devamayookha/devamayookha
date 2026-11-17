@@ -1,6 +1,6 @@
 <div align="center">
 
-# B. R. Devamayookha
+# B R Devamayookha
 
 ### AI & Data Science Undergraduate
 
